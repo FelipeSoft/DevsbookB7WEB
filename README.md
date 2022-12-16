@@ -1,3 +1,6 @@
+## Considerações Iniciais
+Este é um projeto desenvolvido durante as aulas do curso Fullstack da B7WEB no módulo de PHP.
+
 ## Instalação
 Você pode clonar este repositório OU baixar o .zip
 
